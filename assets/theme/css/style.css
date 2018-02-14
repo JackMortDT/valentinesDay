@@ -1,3 +1,5 @@
+<link href="https://fonts.googleapis.com/css?family=Tangerine" rel="stylesheet">
+
 html{
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
@@ -40,4 +42,9 @@ canvas
 {
   display: inline-block;
   line-height: 1em;
+}
+
+.tangerine
+{
+  font-family: 'Tangerine', cursive;
 }
