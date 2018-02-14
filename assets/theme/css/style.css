@@ -48,3 +48,12 @@ canvas
 {
   font-family: 'Tangerine', cursive;
 }
+
+.btn:after {
+    font-family: "Glyphicons Halflings";
+    content: "\e114";
+}
+
+.btn.collapsed:after {
+    content: "\e080";
+}
